@@ -43,7 +43,6 @@ New projects are coming soon. Stay tuned! 🔜
 | 2026 – Present | Master Professional in Data Science (MPSD) | ISSAT Gafsa |
 | 2023 – 2026 | Licence in Computer Science — Software Engineering & Information Systems | Faculté des Sciences de Gafsa |
 
----
 
 ---
 
