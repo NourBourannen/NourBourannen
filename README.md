@@ -45,4 +45,14 @@ New projects are coming soon. Stay tuned! 🔜
 
 ---
 
-<p align="center">Let's connect and build something with data! 🚀</p>
+---
+
+<h2 align="center">🤝 Let's Connect</h2>
+
+<p align="center">
+  <a href="mailto:nourbourannen281@gmail.com"><img src="https://img.shields.io/badge/EMAIL-nourbourannen281@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a><a href="https://www.linkedin.com/in/nour-bourannen-2b7548348"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+</p>
+
+<p align="center">
+  <img src="footer.svg" width="100%" />
+</p>
